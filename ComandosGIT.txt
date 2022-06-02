@@ -1,0 +1,5 @@
+
+git add index.html -> agrega el archivo a ser comiteado.
+git init -> inicializo el repositorio local. Se rastrean todos los archivos de esta carpeta.
+git ls -> ver contenido de la carpeta correspondiente.
+git status -> ver el estado del repositorio.
